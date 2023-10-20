@@ -84,7 +84,7 @@ body {
     width: 5em;
 }
 
-.hero-content h1 {
+.hero-content h2 {
     color: var(--svjetlabez);
     font-family: 'Playfair Display', serif;
     font-weight: 900;
@@ -261,7 +261,7 @@ lottie-player {
     margin-top: -400px;
 }
 
-.hlace h1 {
+.hlace h2 {
     /* letter-spacing: -0.75em; */
     letter-spacing: -12px; 
     /* margin-bottom: -110px; */
@@ -310,7 +310,7 @@ lottie-player {
     position: relative;
 }
 
-.lokacija h1 {
+.lokacija h2 {
     display: grid;
     justify-items: right;
     font-family: 'Playfair Display';
@@ -368,7 +368,7 @@ lottie-player {
     padding-bottom: 5em;
 }
 
-.gallery h1 {
+.gallery h2 {
     color: #000;
     font-family: 'Playfair Display';
     font-weight: 900;
@@ -630,7 +630,7 @@ lottie-player {
  /* Responsive styles for smaller screens */
 @media screen and (max-width: 767px) {
 
-    .gallery h1 {
+    .gallery h2 {
         font-size: 4rem;
     }
 
@@ -653,7 +653,7 @@ lottie-player {
     max-width: 100%;
 }
 
-.lokacija h1 {
+.lokacija h2 {
     font-size: 4rem;
     margin-top: 1.2rem;
 }
@@ -708,7 +708,7 @@ lottie-player {
     }
 
 
-    #xxl h1 {
+    #xxl h2 {
         font-size: 3rem;
         line-height: 1rem;
     }
@@ -776,7 +776,7 @@ lottie-player {
     color: var(--crna);
   }
 
-  .hero-content h1 {
+  .hero-content h2 {
     font-size: 3rem;
   }
 
@@ -792,7 +792,7 @@ lottie-player {
 
 @media screen and (max-width: 1100px) {
 
-    .hlace h1 {
+    .hlace h2 {
         letter-spacing: -12px; 
         margin-bottom: .5em;
         margin-top: 0.5em;
@@ -807,7 +807,7 @@ lottie-player {
         display: none;
     }
 
-    .angry-grid, .gallery h1 {
+    .angry-grid, .gallery h2 {
         max-width: 590px;
         margin: 0 auto;
     }
