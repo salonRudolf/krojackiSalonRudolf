@@ -84,7 +84,7 @@ body {
     width: 5em;
 }
 
-.hero-content h2 {
+.hero-content h1 {
     color: var(--svjetlabez);
     font-family: 'Playfair Display', serif;
     font-weight: 900;
